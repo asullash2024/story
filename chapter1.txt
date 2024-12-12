@@ -1,0 +1,1 @@
+Git Bash is case-sensitive. This means it treats cd and Cd as different commands. Since Cd is not a valid command, you get the "command not found" error.
